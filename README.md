@@ -17,3 +17,28 @@
   But if something is still confusing, you can message me or open an issue
 </p>
 <hr>
+<h2>Features</h2>
+<p>
+  <ol>
+    <li>Multiple URL scraping</li>
+    <li>GET and POST request types usable</li>
+    
+  </ol>
+</p>
+<hr>
+<h2>Soooo, whats different?</h2>
+<p>
+  Well, quite a few things
+  <ul>
+    <li>I learned OOP so implemented that</li>
+    <li>Tried to use every best practise that I could think of</li>
+    <li>An upgraded GUI</li>
+  </ul>
+</p>
+<hr>
+<h2>Roadmap</h2>
+<ol>
+  <li>Presetting</li>
+  <li>Add regex to element scraping options</li>
+  <li></li>
+</ol>
