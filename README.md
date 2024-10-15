@@ -1,7 +1,4 @@
-<p align="center">
-  <h1>ScrapeEZ</h1>
-  <h3>EZily scrape the web</h3>
-</p>
+<p align="center"><h1>ScrapeEZ</h1></p>
 <br>
 <h2>Greetings!</h2>
 <p>
