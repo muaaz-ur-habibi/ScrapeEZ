@@ -1,4 +1,4 @@
-<p align="center"><h1>ScrapeEZ</h1></p>
+<h1 align="center">ScrapeEZ</h1>
 <br>
 <h2>Greetings!</h2>
 <p>
